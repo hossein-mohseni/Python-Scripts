@@ -5,37 +5,33 @@ This repository contains my Python projects for my university course with Profes
 ## Part 1: Calculation 📊
 In this part, I used Python to analyze various datasets. The projects include:
 
-🌡️ [Temperature Converter](Part1%20👁%EF%B8%8F/temperature_converter.py): A program that converts Celsius temperature into Fahrenheit temperature.
+🌡️ [Temperature Converter](https://github.com/hossein-mohseni/Python-Scripts/blob/main/Part1%20%F0%9F%91%81%EF%B8%8F/Temperature-Converter.py): A program that converts Celsius temperature into Fahrenheit temperature.
 
-📏 [Cylinder Volume Calculator](Part1%20👁%EF%B8%8F/cylinder_volume_calculator.py): A program that calculates the volume of a cylinder using the radius and length input.
+📏 [Cylinder Volume Calculator](https://github.com/hossein-mohseni/Python-Scripts/blob/main/Part1%20%F0%9F%91%81%EF%B8%8F/Cylinder_volume_calculator.py): A program that calculates the volume of a cylinder using the radius and length input.
 
-🔢 [Exponent Calculator](Part1%20👁%EF%B8%8F/exponent_calculator.py): A program that calculates exponents with two lists of base and exponents input.
+🔢 [Exponent Calculator](https://github.com/hossein-mohseni/Python-Scripts/blob/main/Part1%20%F0%9F%91%81%EF%B8%8F/Exponent-Calculator.py): A program that calculates exponents with two lists of base and exponents input.
 
-💰 [Gratuity and Total Calculator](Part1%20👁%EF%B8%8F/gratuity_total_calculator.py): A program that calculates the gratuity and total based on the subtotal and gratuity rate input.
+💰 [Gratuity and Total Calculator](https://github.com/hossein-mohseni/Python-Scripts/blob/main/Part1%20%F0%9F%91%81%EF%B8%8F/Gratuity-and-Total-Calculator.py): A program that calculates the gratuity and total based on the subtotal and gratuity rate input.
 
-💰 [Initial Deposit Calculator](Part1%20👁%EF%B8%8F/initial_deposit_calculator.py): A program that calculates the initial deposit value based on the final account value, annual interest rate, and number of years input.
+💰 [Initial Deposit Calculator](https://github.com/hossein-mohseni/Python-Scripts/blob/main/Part1%20%F0%9F%91%81%EF%B8%8F/Initial-Deposit-Calculator.py): A program that calculates the initial deposit value based on the final account value, annual interest rate, and number of years input.
 
-🕰️ [Minutes to Years Calculator](Part1%20👁%EF%B8%8F/minutes_to_years_calculator.py): A program that calculates the number of years and days based on the entered amount of minutes.
+🕰️ [Minutes to Years Calculator](https://github.com/hossein-mohseni/Python-Scripts/blob/main/Part1%20%F0%9F%91%81%EF%B8%8F/Minutes-to-Years-Calculator.py): A program that calculates the number of years and days based on the entered amount of minutes.
 
-🔢 [Sum of Digits Calculator](Part1%20👁%EF%B8%8F/sum_of_digits_calculator.py): A program that calculates the sum of digits of an integer input.
+🔢 [Sum of Digits Calculator](https://github.com/hossein-mohseni/Python-Scripts/blob/main/Part1%20%F0%9F%91%81%EF%B8%8F/Sum-of-Digits-Calculator.py): A program that calculates the sum of digits of an integer input.
 
 
 ## Part 2: Calculation & Generators 🤖
 In this part, I created various programs utilizing machine learning algorithms to solve different problems. The projects include:
 
-📈 [Stock Price Prediction](Part2%20👀/stock_price_prediction.py): A program that uses Linear Regression to predict the future stock prices of a company.
+📐 [Pentagon-Area-Calculator](https://github.com/hossein-mohseni/Python-Scripts/blob/main/Part2%20%F0%9F%91%80/Pentagon-Area-Calculator.py): A program that calculates the area of a regular pentagon given the length of one side.
 
-🧠 [Sentiment Analysis](Part2%20👀/sentiment_analysis.py): A program that uses Neural Networks to predict the sentiment of a given text.
+🔢 [ASCII Converter](https://github.com/hossein-mohseni/Python-Scripts/blob/main/Part2%20%F0%9F%91%80/ASCII-Converter.py): A program that converts a number input to its corresponding ASCII character.
 
-🔍 [Image Classification](Part2%20👀/image_classification.py): A program that uses Convolutional Neural Networks (CNN) to classify images into different categories.
+🌐 [Great Circle Distance Calculator](https://github.com/hossein-mohseni/Python-Scripts/blob/main/Part2%20%F0%9F%91%80/Great%20Circle-Distance-Calculator.py): A program that calculates the distance between two points represented by their latitude and longitude coordinates.
 
-🔢 [ASCII Converter](Part2%20👀/ascii_converter.py): A program that converts a number input to its corresponding ASCII character.
+🔠 [Random Uppercase Letter Generator](https://github.com/hossein-mohseni/Python-Scripts/blob/main/Part2%20%F0%9F%91%80/Letter-Generator.py): A program that generates a random uppercase letter.
 
-🌐 [Great Circle Distance Calculator](Part2%20👀/great_circle_distance_calculator.py): A program that calculates the distance between two points represented by their latitude and longitude coordinates.
-
-🔠 [Random Uppercase Letter Generator](Part2%20👀/random_uppercase_letter_generator.py): A program that generates a random uppercase letter.
-
-💰 [Payroll Statement](Part2%20👀/payroll_statement.py): A program that calculates the payroll information of an employee based on their input information.
+💰 [Payroll Statement](https://github.com/hossein-mohseni/Python-Scripts/blob/main/Part2%20%F0%9F%91%80/Payroll-Statement.py): A program that calculates the payroll information of an employee based on their input information.
 
 I had a great time working on these projects and learned a lot about Python and Calculating with Python 🐍. Hope you enjoy exploring this repository! 😄
 
