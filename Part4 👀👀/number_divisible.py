@@ -1,6 +1,6 @@
 import sys
 import os
-
+ 
 os.system("cls")
 def print_numbers():
     count = 0
