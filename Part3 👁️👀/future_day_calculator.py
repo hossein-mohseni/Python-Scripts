@@ -1,6 +1,6 @@
 import time
 import os
-
+ 
 while True:
     os.system("cls")
     today = int(input("\nEnter today's day (0-6): "))
