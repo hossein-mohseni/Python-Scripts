@@ -1,6 +1,6 @@
 import calendar
 import os
-
+ 
 def display_calendar():
     while True:
         os.system("cls")
