@@ -1,6 +1,6 @@
 import random
 import os
-
+ 
 outcomes = ["head", "tail"]
 
 while True:
