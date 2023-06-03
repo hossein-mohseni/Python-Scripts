@@ -1,7 +1,7 @@
 import colorama
 from colorama import Fore, Style
 import os
-
+ 
 def display_ascii_table():
     start_char = ord('!')
     end_char = ord('~')
