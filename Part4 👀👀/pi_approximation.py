@@ -1,6 +1,6 @@
 import time
 import os
-
+ 
 def compute_approximation():
     while True:
         os.system("cls")
