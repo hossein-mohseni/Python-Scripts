@@ -1,7 +1,7 @@
 import colorama
 from colorama import Fore, Style
 import os
-
+ 
 def display_number_pyramid():
     size = 5
 
