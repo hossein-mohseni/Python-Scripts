@@ -1,6 +1,6 @@
 import random
 import os
-
+ 
 while True:
     os.system("cls")
     user_choice = int(input("Enter your choice (0 for scissor, 1 for rock, 2 for paper): "))
