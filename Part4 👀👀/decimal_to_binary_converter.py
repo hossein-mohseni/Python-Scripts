@@ -1,5 +1,5 @@
 import os
-
+ 
 def decimal_to_binary():
     while True:
         os.system('cls')
