@@ -1,6 +1,6 @@
 from colorama import init, Fore
 import os
-
+ 
 init() 
 while True:
     os.system("cls")
