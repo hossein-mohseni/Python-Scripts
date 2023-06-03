@@ -1,5 +1,5 @@
 import os
-
+ 
 while True:
     os.system("cls")
     decimal_int = int(input("\033[1;32mEnter an integer between 0 and 15: \033[0m"))
