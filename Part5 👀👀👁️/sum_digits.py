@@ -1,5 +1,5 @@
 import time
-import os
+import os 
 
 def sumDigits(n):
     total = 0
