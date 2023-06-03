@@ -1,6 +1,6 @@
 import random
 import os
- 
+  
 while True:
     os.system("cls")
     num1 = random.randint(0, 99)
