@@ -1,6 +1,6 @@
 from colorama import init, Fore
 import os
-
+ 
 def reverse(number):
     reversed_number = 0
     while number > 0:
