@@ -1,6 +1,6 @@
 import time
 import os
-
+ 
 while True:
     os.system("cls")
     i = 1
