@@ -1,6 +1,6 @@
 from colorama import Fore, Style
 import os
-
+ 
 while True:
     os.system("cls")
     positive_count = 0
