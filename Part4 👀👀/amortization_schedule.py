@@ -1,5 +1,5 @@
 import os
-
+ 
 def calculate_amortization_schedule(loan_amount, num_years, interest_rate):
     monthly_interest_rate = interest_rate / 12 / 100
     num_months = num_years * 12
