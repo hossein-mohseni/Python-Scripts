@@ -1,6 +1,6 @@
 import random
 import os
-
+ 
 def printMatrix(n):
     for _ in range(n):
         row = ' '.join(str(random.choice([0, 1])) for _ in range(n))
