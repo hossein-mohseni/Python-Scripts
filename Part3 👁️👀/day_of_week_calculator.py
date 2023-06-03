@@ -1,6 +1,6 @@
 import time
 import os
-
+ 
 while True:
     os.system("cls")
     print("\n--- Day of the Week Calculator ---\n")
