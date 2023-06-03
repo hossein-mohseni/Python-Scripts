@@ -1,6 +1,6 @@
 from termcolor import colored
 import os
-
+ 
 def displaySortedNumbers(num1, num2, num3):
     sorted_numbers = sorted([num1, num2, num3])
     sorted_string = ' '.join(str(num) for num in sorted_numbers)
