@@ -1,6 +1,6 @@
 from termcolor import colored
 import os
-
+ 
 while True:
     os.system("cls")
     print(colored("=== Month and Year ===", "blue"))
