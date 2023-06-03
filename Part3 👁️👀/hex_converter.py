@@ -1,6 +1,6 @@
 import time
 import os
-
+ 
 while True:
     os.system("cls")
     hex_char = input("\nEnter a hex character: ")
